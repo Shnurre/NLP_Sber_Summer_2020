@@ -1,1 +1,1 @@
-# NLP_Sber_Summer_2020
+# NLP Sber Summer 2020
